@@ -10,9 +10,9 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./sprout2.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./bean.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
