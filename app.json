@@ -27,7 +27,12 @@
       "bundleIdentifier": "com.beanstalk.beanstalk"
     },
     "android": {
-      "package": "com.beanstalk.beanstalk"
+      "package": "com.beanstalk.beanstalk",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyB96lQzrsdcJny0cextSf9g3cN_4Q1GRmA"
+        }
+      }
     }
   }
 }
