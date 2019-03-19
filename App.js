@@ -120,8 +120,8 @@ class ProfileComponent extends Component {
       user: data.user,
       followers: data.followers || this.state.followers,
       isFollowing: data.isFollowing,
-      posts: data.posts,
-      num_posts:data.num_posts,
+      posts: data.posts || [],
+      num_posts:data.num_posts || 0,
       locations: data.locations || [],
       markers:[],
     })
